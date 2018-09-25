@@ -1,0 +1,15 @@
+{
+  "name": "shoogle",
+  "version": "1.0.0",
+  "description": "Google via telnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George Bougakov",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "google": "^2.1.0"
+  }
+}
